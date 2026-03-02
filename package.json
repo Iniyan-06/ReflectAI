@@ -9,9 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@types/sentiment": "^5.0.4",
+    "idb": "^8.0.3",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "recharts": "^3.7.0",
+    "sentiment": "^5.0.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
