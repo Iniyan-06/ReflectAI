@@ -7,8 +7,15 @@
   <img src="https://img.shields.io/badge/Privacy-100%25%20Local-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Sentiment%20Analysis-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design-Accessible%20%26%20Clean-success?style=for-the-badge" />
+  <a href="https://reflect-ai-xi.vercel.app/">
+    <img src="https://img.shields.io/badge/Demo-Live%20on%20Vercel-orange?style=for-the-badge" />
+  </a>
   <img src="https://img.shields.io/badge/Status-Operational-green?style=for-the-badge" />
 </div>
+
+<p align="center">
+  <a href="https://reflect-ai-xi.vercel.app/"><strong>🚀 Explore the Live Demo</strong></a>
+</p>
 
 ---
 
